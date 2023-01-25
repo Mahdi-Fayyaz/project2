@@ -1,0 +1,106 @@
+.hadder{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom:560px;
+    left: 0px;
+    background-color:rgb(40, 163, 245);
+    text-align: center;
+    color: rgb(5, 58, 51);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 42px;
+    font-weight: bold;
+    word-spacing: 20px;
+    border-bottom: 15px solid rgb(93, 189, 192);
+    padding: 10px;
+}
+.top{
+    position: absolute;
+    top: 95px;
+    right: 500px;
+    bottom: 500px;
+    left:0px ;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(83, 25, 219);
+    text-align: center;
+    padding: 10px;
+}
+.right{
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    bottom: 300px;
+    left: 800px;
+    font-size: large;
+    font-family: sans-serif;
+}
+.material{
+    position: absolute;
+    top: 30px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    line-height: 80px;
+}
+.beef{
+    background-color: brown;
+}
+.dairy{
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+}
+.bun{
+    background-color: tomato;
+}
+.make{
+    position: absolute;
+    top: 1300px;
+    left: 100px;
+    right: 300px;
+}
+.top-make{
+    text-align: center;
+    color: darkblue;
+    font-family: serif;
+}
+h2{
+    color: darkblue;
+    font-family: sans-serif;
+}
+.dis{
+    display: inline ;
+}
+.pad{
+    padding: 20px;
+}
+.footer{
+    position: absolute;
+    top: 5200px;
+    left: 0px;
+    right: 0px;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+a:link {
+    color: rgb(1, 1, 2);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
